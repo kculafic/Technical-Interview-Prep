@@ -32,3 +32,7 @@ add3(4);
 The first statement returns 7, like the add(3, 4) statement. The second statement defines a new function called add3 that will add 3 to its argument. This is what some people may call a closure. The third statement uses the add3 operation to add 3 to 4, again producing 7 as a result.
 
 ****
+
+## Icebox
+#### What is closure?
+#### What is a promise?
